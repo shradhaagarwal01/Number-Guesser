@@ -113,6 +113,7 @@ header {
   font-weight: 700;
   color: #4c7ef3;
   cursor: pointer;
+  outline: none;
 }
 
 .number-controls button[disabled] {
@@ -140,6 +141,7 @@ header {
   background-color: #008080;
   color: #fff;
   cursor: pointer;
+  outline:none;
 }
 
 #guess {
