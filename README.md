@@ -35,5 +35,13 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Contact
+
+Your Name - [@dilkipatang](https://twitter.com/dilkipatang) - shradhaagarwal386@gmail.com
+
+Source Code: [https://github.com/shradhaagarwal01/Number-Guesser](https://github.com/shradhaagarwal01/Number-Guesser)
+
+See Live: [https://shradhaagarwal01.github.io/Number-Guesser/](https://shradhaagarwal01.github.io/Number-Guesser/)
+
 ## License
 [MIT](https://github.com/shradhaagarwal01/Number-Guesser/blob/master/LICENSE)
